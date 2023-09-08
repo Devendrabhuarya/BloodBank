@@ -1,0 +1,9 @@
+mongodb+srv://chintubhuarya75:<sYgoNrDQRWzNU2Xv>@cluster0.ztxsyzj.mongodb.net/
+
+Replace <password> with the password for the chintubhuarya75 user.
+When entering your password, make sure that any special characters are URL encoded.
+
+CeGC7FQ8RyhX314S
+
+
+mongodb+srv://chintu:<CeGC7FQ8RyhX314S>@cluster0.ztxsyzj.mongodb.net/
